@@ -1,0 +1,4 @@
+AntiBot website
+In order to be able to use the AntiBot you have to insert this code in your <head> area: <script src = "http://torspace.de/index.js"> </script>
+
+code by Yama
